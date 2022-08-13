@@ -7,8 +7,12 @@
     color: black;
 }
 
-h1 {
+h1, h2, h4, h5, h6 {
     color: rgb(70, 130, 180);
+}
+
+h3 {
+    color: rgb(0, 139, 139);
 }
 /*End of Everything*/
 
@@ -128,9 +132,10 @@ small {
 
 article {
     border: none;
-    border-bottom: .1em solid rgb(230, 230, 250);
+    border-bottom: .15em solid rgb(230, 230, 250);
     width: 100%;
 }
+
 /*begining of footer */
 .footer {
     background-color: rgb(70, 130, 180);
