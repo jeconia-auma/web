@@ -158,15 +158,22 @@ article {
     color: #fff;
     font-size: 1.2em;
 }
+
 .footer .socialmedia .social{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
+    display: block;
+    color: #fff;
+}
+
+.footer .socialmedia .social strong {
+    color: #fff;
+    margin-bottom: 2em;
+    display: block;
 }
 
 .footer .socialmedia .social img {
     width: 50px;
     margin: .3em;
+    display: block;
 }
 
 ul {
