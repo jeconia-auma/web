@@ -30,7 +30,7 @@ body {
     width: 96%;
     margin: 0 auto;
     overflow-x: hidden;
-    background-color: rgb(230, 230, 250));
+    background-color: rgb(230, 230, 250);
 }
 /*End of container section*/
 
@@ -208,6 +208,6 @@ ul {
     }
 
     .content {
-        width 75%;
+        width: 75%;
     }
 }
