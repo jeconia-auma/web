@@ -186,6 +186,11 @@ ul {
     text-align: center;
     color: white;
 }
+
+.fa-brands, .fa-solid {
+    font-size: 2em;
+    color: #fff;
+}
 /*End of footer */
 
 @media only screen and (min-width: 800px)
