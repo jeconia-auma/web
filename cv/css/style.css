@@ -178,9 +178,10 @@ article {
 }
 
 ul {
-    list-style: none;
+    /*list-style: none;*/
     list-style-position: inside;
     margin-left: 4px;
+    padding: 2px;
 }
 
 .center {
